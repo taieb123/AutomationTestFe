@@ -25,4 +25,6 @@ See `snapshots.js` file for the example script.
 
 
 Windows Add Token from the PowerShell
-$env:PERCY_TOKEN='Token'
+```bash
+$env:PERCY_TOKEN= Token
+```
